@@ -1,0 +1,39 @@
+C:\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+C:\bot\Bot Application1\Bot Application1\bin\Bot Application1.dll.config
+C:\bot\Bot Application1\Bot Application1\bin\Bot Application1.dll
+C:\bot\Bot Application1\Bot Application1\bin\Bot Application1.pdb
+C:\bot\Bot Application1\Bot Application1\bin\Autofac.dll
+C:\bot\Bot Application1\Bot Application1\bin\Chronic.dll
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\bot\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+C:\bot\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\bot\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+C:\bot\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+C:\bot\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+C:\bot\Bot Application1\Bot Application1\bin\Autofac.xml
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.xml
+C:\bot\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\bot\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+C:\bot\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\bot\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\bot\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+C:\bot\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+C:\bot\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+C:\bot\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\bot\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\bot\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\bot\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\bot\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\bot\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\bot\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\bot\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application1.dll
+C:\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application1.pdb
